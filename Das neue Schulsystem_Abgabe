@@ -112,21 +112,21 @@
  <text>
  <body>
  <p>
-<lb/><title>Das
+<lb/>Das
 <lb/>Neue Schulsystem
 <lb/>gegen
 <lb/>Unwissenheit, Vorurtheile
-<lb/>und Stolz</title>
+<lb/>und Stolz
 <lb/>bey der
 <lb/>feyerlichen Austheilung der Prämien
 <lb/>vertheidiget
 <lb/>von
-<lb/><persName ref="https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D123078784">Franz Anton Neuhauser</persName>, <note type="editorial">hier könnte eine Unterschrift stehen</note>
+<lb/><persName ref="https://d-nb.info/gnd/123078784">Franz Anton Neuhauser</persName>, <note type="editorial">hier könnte eine Unterschrift stehen</note>
 <lb/>Der Philosophie Doctor, und Professor des Churfürstl.
-<lb/>Akadem. Gymnasiums zu <placeName ref ="https://d-nb.info/gnd/4026991-7">Ingolstadt</placeName>.
-<lb/><placeName ref="	https://d-nb.info/gnd/4127793-4">München</placeName> <date type="publication">1775</date>.
-<lb/>Im Verlage bey <persName ref ="https://portal.dnb.de/opac/simpleSearch?query=nid%3D1037500091&cqlMode=true">Johann Nepomuk Fritz</persName>,
-<lb/>Churfürstl. akadem. Und bürgerlicher <berufName ref ="https://www.azubiyo.de/berufe/buchhaendler/">Buchhändler</berufName>
+<lb/>Akadem. Gymnasiums zu <placeName ref="https://d-nb.info/gnd/4026991-7">Ingolstadt</placeName>.
+<lb/><placeName ref="https://d-nb.info/gnd/4127793-4">München</placeName> <date type="publication">1775</date>.
+<lb/>Im Verlage bey <persName ref="https://d-nb.info/gnd/1037500091">Johann Nepomuk Fritz</persName>,
+<lb/>Churfürstl. akadem. Und bürgerlicher Buchhändler
 <lb/>nächst dem schönen Thurme.
 </p>
  </body>
